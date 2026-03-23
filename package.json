@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrewbelandres6969-lgtm/Role-Based-App-Backend-Belandres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewbelandres6969-lgtm/Role-Based-App-Backend-Belandres/issues"
+  },
+  "homepage": "https://github.com/andrewbelandres6969-lgtm/Role-Based-App-Backend-Belandres#readme"
 }
